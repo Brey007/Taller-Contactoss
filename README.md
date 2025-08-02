@@ -25,7 +25,7 @@ Antes de comenzar, asegúrate de tener instalado:
 
 ```bash
 git clone https://github.com/Brey007/Taller-Contactoss.git
-cd TU_REPOSITORIO
+cd ContactsActivity
 ```
 
 2. Instala las dependencias del proyecto:
