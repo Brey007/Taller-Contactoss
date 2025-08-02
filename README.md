@@ -50,15 +50,8 @@ npx pod-install
 5. Inicia el servidor Metro:
 
 ```bash
-npx react-native start
+npx start
 ```
-
-6. En otra terminal, ejecuta la app en Android:
-
-```bash
-npx react-native run-android
-```
-
 ---
 
 ## 🧪 Funcionalidades
